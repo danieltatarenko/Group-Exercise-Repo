@@ -1,1 +1,59 @@
+//logo - Positioned at the top-left, clickable link to home page
+
+//Navigation Bar - Horizontal bar containing links:
+Home | Listings | Connect | Events | Learning Resources | Forum | Profile | Contact Us
+
+When users hover over the "Learning Resources" link in the navigation bar, a dropdown menu will appear with the options "Current Apprentices" and "Prospective Apprentices
+
+//Clickable Sections:
+Divided clickable sections for "Current Apprentices" and "Prospective Apprentices."
+Each section tailored to the specific needs of the user type.
+
+//Current Apprentices Page:
+
+    a. Educational Materials:
+
+    Skills Development:
+    Categorised resources for skill development in various industries
+    Tutorials, guides, and courses for enhancing specific technical and soft skills
+
+
+    b. Success Stories:
+
+    Apprentice Stories:
+    Showcase success stories of current and former apprentices who have excelled in their respective fields
+    Personal narratives, achievements, and tips for success
+
+
+    c. Career Development:
+
+    Career Guidance:
+    Learning materials on developing a successful career as an apprentice and beyond
+    Resources covering topics like goal-setting, time management, and networking
+
+
+//Prospective Apprentices Page:
+
+    a. Success Stories:
+
+    Apprentice Stories:
+    Showcase success stories of current and former apprentices who have excelled in their interested fields
+    Personal narratives, achievements, and tips for success
+
+    Employer Stories:
+    Content showcasing perspectives from employers who have benefited from hiring apprentices
+    Encourage prospective apprentices by sharing the impact apprenticeships can have on businesses
+
+
+    b. Apprenticeship Insights:
+
+    Preparing for Apprenticeship:
+    Lessons on what apprenticeships entail
+    Detailed guides on preparing for the apprenticeship process, including interviews, CV writing, cover letters, online assessments, and group tasks
+
+
+
+
+
+
 
