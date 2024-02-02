@@ -1,1 +1,16 @@
-This will allow both current and prospective apprentices to be able to connect. they will be able to add friends, have 1 on 1 chats and make group chats. There will also be a feature where you can see how many people you have connected with and will also have a badge system relating to that.
+This will allow both current and prospective apprentices to be able to connect.
+
+//Adding Friends
+
+People will be able to filter by Company, University, Industry, Location, Interests, Age.
+They will also be able to do a basic search by name.
+
+//Chats
+
+People will  be able to have both 1 on 1 chats and group chats with a number of people in it.
+In this you will not only be able to message but you will be able to call, send polls and organise events.
+
+//Connection Count
+
+The connection count will be a number displayed that counts the total number of people that you have talked to.
+There will be a badge system in place that takes the number of connections you have and rewards you with a virtual badge whenever you hit a connection goal. (10,50,100, etc)
