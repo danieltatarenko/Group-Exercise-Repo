@@ -1,1 +1,40 @@
+//logo - Positioned at the top-left, clickable link to home page
 
+//Navigation Bar - Horizontal bar containing links:
+Home | Listings | Connect | Events | Learning Resources | Forum | Profile | Contact Us
+
+//Home Page
+
+    a. Hero Section:
+
+    Featured Content:
+    A dynamic hero section showcasing success stories, latest news, and important announcements through a carousel/slider.
+    Call-to-action buttons leading to different sections of the site.
+
+
+    b. Quick-Access Section:
+
+    Buttons:
+    Large, clickable buttons providing quick access to essential sections like Listings, Learning Resources, and Events
+    Each button accompanied by visually appealing icons
+
+
+    c. About Us Section:
+
+    Brief Introduction:
+    A concise and compelling overview of the website's purpose and mission
+    Engaging language to capture the user's interest
+
+
+    d. Quote Section:
+
+    User Quotes:
+    Quotes from satisfied apprentices.
+    Images or avatars of the apprentices for a personal touch
+
+
+    e. Footer Section:
+
+    Contact Information:
+    Contact details for inquiries
+    Links to social media profiles
